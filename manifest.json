@@ -1,0 +1,9 @@
+{
+	"name": "NoGrabDelay",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/tixomirof/NoGrabDelay",
+	"description": "A simple mod that removes the delay between picking up scrap or other items.",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
